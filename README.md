@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GoldAik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=GoldAik&&theme=xcode)](https://github.com/GoldAik)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldAik&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GoldAik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldAik&show_icons=true&locale=en&theme=tokyonight" alt="GoldAik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldAik&&theme=tokyonight" alt="GoldAik" /></p>
